@@ -65,6 +65,11 @@
 
 ---
 
+## 🐍 Contribution Graph
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🌍 Let's Connect  
 <p align="center">
   <a href="https://x.com/NadkarAnas45"><img src="https://img.shields.io/badge/Twitter-2af7b4?style=for-the-badge&logo=twitter&logoColor=white"/></a>
