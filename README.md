@@ -56,9 +56,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NadkarAnas45&theme=nord&no-frame=false&no-bg=true&margin-w=6&row=1" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=anasnadkar45&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
