@@ -61,10 +61,7 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadkarAnas45&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NadkarAnas45&theme=radical" height="160"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasnadkar45)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
